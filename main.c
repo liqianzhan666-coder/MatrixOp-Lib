@@ -2,7 +2,7 @@
 #include "matrix_op.h"
 
 int main() {
-    // 建立一個可計算反矩陣的範例
+   
     Matrix3x3 m1 = {{{1, 2, 3}, {0, 1, 4}, {5, 6, 0}}};
     
     printf("Original Matrix:\n");
